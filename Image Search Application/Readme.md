@@ -15,7 +15,7 @@ This is a simple Image Search Application that allows users to search for images
 - HTML
 - CSS
 - JavaScript
-- External Image Search API (e.g., Unsplash API, Pixabay API, or your choice)
+- External Image Search API (e.g., Unsplash API, Pixabay API, or of your choice)
 
 ## Installation
 
