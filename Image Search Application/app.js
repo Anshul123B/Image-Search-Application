@@ -41,6 +41,8 @@ async function searchImages(){
     }
 }
 
+//hello not GOOD of all time
+
 formE1.addEventListener("submit", (event) => {
     event.preventDefault();
     page = 1;
